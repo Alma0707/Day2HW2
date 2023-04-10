@@ -6,4 +6,8 @@ public class TestHW2 {
 		
 		System.out.println("Java Is Coolllll....");
 	}
+	public void divide() {
+		
+		System.out.println(6/3);
+	}
 }
